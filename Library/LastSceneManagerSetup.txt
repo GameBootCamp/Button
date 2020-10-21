@@ -1,0 +1,5 @@
+sceneSetups:
+- path: "C:/Users/ezgia/OneDrive/Masa\xFCst\xFC/ikinci/Button/Assets/Scenes/SampleScene.unity"
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
